@@ -28,6 +28,10 @@ A console-based Library Management System written in **C++** that allows student
 • Console-based modular application design
 
 
+
+
+
+
 ## Future Improvements
 
 🔐 Password masking (****)
@@ -56,20 +60,76 @@ A console-based Library Management System written in **C++** that allows student
 | 🛡️ **Password Masking (optional)**   | Hide passwords with `*` when typing for privacy and security.                                        |
 | 📊 **Admin Dashboard (optional)**     | Implement role-based access for viewing all user records.                                            |
 
-## Example
+## Sample Outputs:
 
-1 → Sign Up
-↳ Entry Number: 2023CSE101
-↳ Password: abhi@123
+1) → Sign Up
+   
+ → Entry Number: 2023eeb1187
 
-2 → Login
-↳ Entry Number: 2023CSE101
-↳ Password: abhi@123
+ → Password: Anujchoudhary88
+
+ → Login
+ 
+↳ Entry Number: 2023eeb1187
+
+↳ Password: Anujchoudhary88
 
 Post Login Data Entry:
-↳ Name: Abhishek Soni
+
+↳ Name: Anuj Choudhary
+
 ↳ Section: A
+
 ↳ Laptop Brand: HP
-↳ Library Books: 3
+
+↳ Library Books: 1
+
+↳ Personal Books: 3
+
+↳ Notebooks: 2
+
+
+
+![iamge alt](https://github.com/Anujchoudhary87/Library_management/blob/208fb25f8a68963cd65c29fcdeb0b18ab5ceb5db/Sign-up.png)
+
+2) Login without sign-up:
+
+![iamge alt](https://github.com/Anujchoudhary87/Library_management/blob/208fb25f8a68963cd65c29fcdeb0b18ab5ceb5db/No-Entry.png)
+
+
+3) → Sign Up
+   
+↳ Entry Number: 2023eeb1175
+
+↳ Password: Abhi1234
+
+ → Login
+ 
+↳ Entry Number: 2023eeb1175
+
+↳ Password: Abhi1234
+
+Post Login Data Entry:
+
+↳ Name: Abhi
+
+↳ Section: C
+
+↳ Laptop Brand: Mackbook
+
+↳ Library Books: 0
+
 ↳ Personal Books: 1
-↳ Notebooks: 4
+
+↳ Notebooks: 2
+
+
+
+
+![iamge alt](https://github.com/Anujchoudhary87/Library_management/blob/208fb25f8a68963cd65c29fcdeb0b18ab5ceb5db/Sign-up2.png)
+
+
+4) Total Entries:
+
+![iamge alt](https://github.com/Anujchoudhary87/Library_management/blob/208fb25f8a68963cd65c29fcdeb0b18ab5ceb5db/Enteries.png)
+   
